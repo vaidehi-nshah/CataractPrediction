@@ -13,6 +13,7 @@ The “Ocular Disease Recognition” dataset has been taken up from Kaggle. Link
 6. Hypertension (H),
 7. Pathological Myopia (M),
 8. Other diseases/abnormalities (O)
+
 I have used the dataset to make predictions for Cataract using CNN (Convolutional Neural Network).
 
 ### Achievements:
